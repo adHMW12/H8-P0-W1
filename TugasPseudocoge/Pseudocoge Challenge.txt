@@ -1,0 +1,59 @@
+1. Newton Second Law
+	Program hitungnewton
+	
+	deklarasi
+	int  m, a
+	float n
+	
+	Algoritma
+	read(m,a)
+	n= (m*a)
+	write("resultan gaya:", n)
+
+2. Tahun Kabisat
+	
+	program kabisat
+
+	deklarasi
+	int tahun
+	float n
+
+	algoritma
+
+	read tahun
+	if tahun / 4 , 100 , 400 then
+		print tahun kabisat
+		else
+		print bukan tahun kabisat
+	end if
+
+3. Laundry Day
+	program laundry
+
+	deklarasi
+	int pakaian
+
+	algoritma
+
+	read pakaian
+	if pakaian>=20 then
+		print mesin cuci menyala
+		else
+		print pakaian kurang 
+	end if
+
+4. Periksa Kuku
+	program periksa_kuku
+
+	deklarasi
+	int kuku
+	
+	algoritma
+	read kuku
+	if kuku=panjang then
+		print guru marah 
+		else
+		print guru memuji 
+	end if
+
+
